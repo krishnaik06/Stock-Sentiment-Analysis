@@ -10,10 +10,13 @@ This project explores the potential of sentiment analysis in stock market predic
 
 ## Project Structure
 
--**`Stock Sentiment Analysis.ipynb`**: Contains the source code for the sentiment analysis and classification model.
--**`Data.csv`**: Holds the dataset with news articles and their sentiment labels (positive or negative).
--**Performance Metrics:** Includes a confusion matrix, accuracy score, and a classification report providing precision, recall, and F1-score for each sentiment class (positive and negative).
--**`LICENSE`**: Outlines the terms under which this project is distributed according to the Apache License.
+- **`Stock Sentiment Analysis.ipynb`**: Contains the source code for the sentiment analysis and classification model.
+
+- **`Data.csv`**: Holds the dataset with news articles and their sentiment labels (positive or negative).
+
+- **Performance Metrics:** Includes a confusion matrix, accuracy score, and a classification report providing precision, recall, and F1-score for each sentiment class (positive and negative).
+
+- **`LICENSE`**: Outlines the terms under which this project is distributed according to the Apache License.
 
 ## Disclaimer
 
